@@ -82,23 +82,32 @@
 
 - **Wieczór** — spacer po Barrio Santa Cruz; flamenco zaplanuj na inny wieczór.
 
-### Poniedziałek, 21.12 — Itálica i flamenco
+### Poniedziałek, 21.12 — Gibraltar na rowerze
 
-- **09:00** — wyjazd do Santiponce (ok. **20–30 min**, zależnie od ruchu).
-- **09:30–12:30** — **stanowisko archeologiczne Itálica**. Rzymskie miasto z amfiteatrem, ulicami i mozaikami; teren jest na zewnątrz i po deszczu może być śliski. Zimą obowiązują inne godziny niż latem, a poniedziałki są zwykle zamknięte — dlatego plan na poniedziałek wymaga potwierdzenia na oficjalnej stronie i ewentualnego przesunięcia na dzień otwarcia. [Oficjalny serwis Itálica](https://www.museosdeandalucia.es/web/conjuntoarqueologicodeitalica)
+- **07:00** — wyjazd z Sewilli do La Línea de la Concepción. Przejazd to około **2 godz. 5 min w jedną stronę** przy sprawnym ruchu; zaplanuj zapas na parkowanie. To nieco przekracza wcześniejszy limit dwóch godzin.
+- **Około 09:15** — zaparkuj po hiszpańskiej stronie w La Línea i przejdź pieszo do Gibraltaru. Oficjalny serwis Park & Go pokazuje parkingi 2–18 minut od wejścia. Nie wjeżdżaj autem do centrum.
+- **09:45–10:15** — dojście do wypożyczalni **Cycle Centre** (1 Eaton Park, Devils Tower Road). Wypożyczalnia podaje godziny pon.–pt. 10:00–18:00 i przyjmuje zapytania o rezerwację. Zadzwoń lub napisz wcześniej, potwierdź otwarcie, dostępność roweru, cenę oraz depozyt. [Wypożyczalnia i rezerwacje](https://www.cyclecentre.gi/rentals/)
 
-![Amfiteatr rzymski w Itálica, Santiponce](https://commons.wikimedia.org/wiki/Special:FilePath/Italica%20amphitheatre.jpg?width=1000)  
-[Zdjęcia Itálici w Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Italica)
+![Rower górski Giant dostępny w wypożyczalni Cycle Centre Gibraltar](https://www.cyclecentre.gi/wp-content/uploads/2024/08/giant-mountain-bike.jpg)  
+[Zdjęcie i informacje o wynajmie](https://www.cyclecentre.gi/rentals/)
 
-- **12:30–14:00** — lunch w Santiponce lub powrót do Sewilli.
-- **15:00–17:00** — **Museo del Baile Flamenco**. Interaktywne wprowadzenie do tańca i jego historii; sprawdź godziny muzeum i repertuar pokazów, ponieważ terminy pokazów są biletowane.
+- **10:15–12:00** — spokojna pętla rowerowa po centrum i nabrzeżach: Ocean Village, Queensway Quay, Casemates Square i Main Street. Jedź ostrożnie po ulicach, pamiętając o ruchu lewostronnym i pieszych.
 
-![Tancerze flamenco podczas występu w Sewilli](https://commons.wikimedia.org/wiki/Special:FilePath/2020%2002%2017%20Flamenco%20Dancers%20Musicans%20Sevilla.jpg?width=1000)  
-[Zdjęcie i licencja w Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Flamenco_in_Seville)
+![Nabrzeże Ocean Village w Gibraltarze](https://commons.wikimedia.org/wiki/Special:FilePath/Ocean%20Village%20berths%20with%20rock%20behind.jpg?width=1000)  
+[Zdjęcia Ocean Village w Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Ocean_Village,_Gibraltar)
 
-- **Wieczór** — pokaz flamenco w wybranym tablao (np. Casa de la Memoria lub Museo del Baile Flamenco). Zarezerwuj z wyprzedzeniem; sprawdź godzinę, długość i czy bilet obejmuje napój.
+- **12:00–13:00** — lunch w centrum lub przy marinie. Potwierdź wcześniej, które lokale są otwarte w poniedziałek.
+- **13:00–15:00** — przejazd na południe półwyspu, w kierunku Europa Point, jeśli wypożyczalnia potwierdzi możliwość wyjazdu poza ścisłe centrum. Trasa ma podjazdy; rower elektryczny może ułatwić przejazd. W przeciwnym razie zostań przy trasie miejskiej i nabrzeżach.
 
-**Ważna korekta:** Itálica jest najczęściej zamknięta w poniedziałki. Jeśli oficjalny kalendarz potwierdzi zamknięcie 21.12, zamień kolejność z innym dniem roboczym; nie jedź na miejsce bez sprawdzenia.
+![Europa Point i latarnia morska w Gibraltarze](https://commons.wikimedia.org/wiki/Special:FilePath/Europa-Point-Lighthouse-Gibraltar.jpg?width=1000)  
+[Zdjęcia Europa Point w Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Europa_Point)
+
+- **15:00–16:00** — zwrot roweru, krótki spacer i przejście z powrotem do La Línea.
+- **Około 16:00–18:15** — powrót do Sewilli; zaplanuj przerwę, jeśli będzie potrzebna.
+
+**Ważne:** Gibraltar Nature Reserve jest zamknięty 25 grudnia i 1 stycznia, ale 21 grudnia powinien być otwarty w godzinach zimowych. Kolejka linowa jest zamknięta z powodu przebudowy, więc nie planuj wjazdu nią na Upper Rock. Jeśli zależy Ci na rezerwacie, sprawdź aktualne wejścia, dostępne wycieczki i to, czy wypożyczalnia pozwala na jazdę rowerem po stromych drogach. [Godziny i bilety rezerwatu](https://naturereserve.gi/tickets/) · [Park & Go: parkingi i trasy](https://www.gibraltar.gov.gi/park-and-go) · [Dojazd do Gibraltaru](https://www.visitgibraltar.gi/get-here)
+
+**Dlaczego tak:** poniedziałek jest najlepszym dniem na rower, bo wypożyczalnia deklaruje wtedy zwykłe godziny pracy. Dojazd jest długi i nieco przekracza założony limit dwóch godzin. Obywatele UE mogą przekroczyć granicę na ważny dowód osobisty lub paszport. [Zasady dokumentów](https://gibraltarairport.gi/at-the-airport/passports-and-identity-cards)
 
 ### Wtorek, 22.12 — przyroda w Doñanie i El Rocío
 
@@ -158,17 +167,21 @@
 - **15:00–15:45** — powrót do Sewilli.
 - **Wieczór** — Wigilia w spokojnym tempie. Zarezerwuj kolację z wyprzedzeniem i potwierdź godziny restauracji oraz transportu; 24 grudnia wiele miejsc kończy pracę wcześniej.
 
-### Piątek, 25.12 — świąteczny spacer i odpoczynek
+### Piątek, 25.12 — Itálica w świąteczny dzień
 
-- **Późny poranek** — **Parque de María Luisa i Plaza de España** albo nadrzeczny spacer wzdłuż Gwadalkiwiru. 25 grudnia wiele muzeów i zabytków jest zamkniętych, więc dzień zaplanowany jest na przestrzeń publiczną i odpoczynek.
+- **09:30** — wyjazd do Santiponce, około **20–30 min** autem. Sprawdź dostępność parkingu przy wejściu.
+- **10:00–13:00** — zwiedzanie **stanowiska archeologicznego Itálica**. Rzymskie miasto z amfiteatrem, dawnymi ulicami i mozaikami. Teren jest otwarty, więc ubierz się warstwowo i weź wygodne buty.
 
-![Widok na Gwadalkiwir i Torre del Oro w Sewilli](https://commons.wikimedia.org/wiki/Special:FilePath/Torre%20del%20Oro%20Sevilla%20Guadalquivir.jpg?width=1000)  
-[Zdjęcia Torre del Oro i rzeki w Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Torre_del_Oro)
+![Amfiteatr rzymski w Itálica, Santiponce](https://commons.wikimedia.org/wiki/Special:FilePath/Italica%20amphitheatre.jpg?width=1000)  
+[Zdjęcia Itálici w Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Italica)
 
-- **13:00–15:00** — świąteczny lunch; koniecznie rezerwuj i potwierdź menu oraz godziny bezpośrednio w restauracji.
-- **Popołudnie** — odpoczynek w noclegu albo krótki spacer po Triana.
+- **13:00–14:00** — lunch. Restauracje w Santiponce mogą być zamknięte w Boże Narodzenie; potwierdź otwarcie i zarezerwuj wcześniej albo zabierz prowiant.
+- **14:00–14:30** — powrót do Sewilli.
+- **Popołudnie** — odpoczynek lub spacer po parku María Luisa, jeśli pogoda dopisze.
 
-**Plan awaryjny:** jeśli restauracje w centrum są pełne, poproś nocleg o rekomendację otwartego lokalu lub zorganizuj wcześniej prosty posiłek. Nie zakładaj działania komunikacji miejskiej według zwykłego rozkładu.
+**Do potwierdzenia:** zwykłe godziny zimowe Itálici przewidują otwarcie w święta, ale przed wyjazdem sprawdź kalendarz na 25 grudnia i ewentualne wyjątkowe zamknięcie. [Oficjalny serwis Itálica](https://www.museosdeandalucia.es/web/conjuntoarqueologicodeitalica)
+
+**Dlaczego tak:** Itálica jest blisko Sewilli, a jej otwarta przestrzeń pasuje do dnia, w którym wiele muzeów i zabytków będzie nieczynnych.
 
 ### Sobota, 26.12 — Caminito del Rey i góry Malagi
 
